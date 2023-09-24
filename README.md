@@ -21,9 +21,10 @@
 
   *  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 * 相关项目
-	* GitHub中有大量的TinyWebServer，其中这个是写的比较好的https://github.com/qinguoyi/TinyWebServer
+	* GitHub可以参考其他类似的，其中这个是写的比较好的https://github.com/qinguoyi/TinyWebServer
  	* 我在写完后对照过和他的区别，他采用了一些智能指针的方式解决内存管理问题，我则把业务做的更加细致 		
 * 主要项目负责人
-	* [@from1224](https://github.com/from1224) 
+	* [@from1224](https://github.com/from1224)
+ 	* 一个人在爬山的时候，要考虑爬到什么位置开始下山。一个人在穿越田野的时候，要考虑到终点之前该捡起哪一样东西
 
 
